@@ -5,7 +5,7 @@
 docker network create ibpf-net
 ```
 
-## Testando perfil dev com Postgresql no Docker
+## Criando Postgresql no Docker
 ```
 docker pull postgres:12-alpine
 
